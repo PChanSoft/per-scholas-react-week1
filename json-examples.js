@@ -7,4 +7,8 @@ mySecondObjectProperty: "second object property",
 
 console.log("my object", myObject);
 
-const validJSONObject
+function sayHi(name){
+    return "my name is " + name;
+}
+console.log (sayHi("Adam"));
+
